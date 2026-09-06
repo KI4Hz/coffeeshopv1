@@ -19,12 +19,7 @@ Case Study Project Coffee Shop V1
 
 # VedioPreview 
 
-<p align="center">
-  <a href="https://youtu.be/-15yOEsHsEY">
-    <img src="https://github.com/user-attachments/assets/4bd96468-aea1-42af-bf86-ae3388be820e" alt="ดูวิดีโอบน YouTube" width="600">
-  </a>
-</p>
-
+[![Watch the video](https://img.youtube.com/vi/-15yOEsHsEY/maxresdefault.jpg)](https://youtu.be/-15yOEsHsEY)
 
 
 
